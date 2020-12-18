@@ -1,0 +1,67 @@
+{
+    "questionOne" : [
+    {
+      "question": "Where did Moses receive the Ten Commandments from God?",
+      "answers": [
+        { "id": "1", "text": "Mount Ararat" },
+        { "id": "2", "text": "The Dead Sea" },
+        { "id": "3", "text": "Mount of Olives" },
+        { "id": "4", "text": "Mount Sinai", "correct": true }
+      ],
+      "correctAnswer": "Mount Sinai",
+      "explanation": "And the LORD came down upon mount Sinai, on the top of the mount: and the LORD called Moses up to the top of the mount; and Moses went up. Exodus 19:20"
+    }
+    ],
+    "questionTwo" : [
+    {
+      "question": "Who was the first Christian martyr?",
+      "answers": [
+        { "id": "1", "text": "John" },
+        { "id": "2", "text": "Peter" },
+        { "id": "3", "text": "Stephen", "correct": true },
+        { "id": "4", "text": "Zacchaeus" }
+      ],
+      "correctAnswer": "Stephen",
+      "explanation": " Acts 6:7-15, 7:54-60. Stephen was an important administrator of charitable works in the early Christian Church.He was also known as a skillful preacher and a miracle worker. But Stephen's criticism of the ruling Jewish Council ultimately led to his death by stoning. His final words were a prayer to forgive his executioners."
+    }
+],
+"questionThree" : [
+    {
+        "question": "Who wrote Acts of the Apostles?",
+        "answers": [
+          { "id": "1", "text": "John" },
+          { "id": "2", "text": "Luke" },
+          { "id": "3", "text": "Peter" },
+          { "id": "4", "text": "Paul", "correct": true }
+        ],
+        "correctAnswer": "Paul",
+        "explanation": " Luke 1:1-4, Acts 1:1-2. Acts of the Apostles was written as a sequel to The Gospel of Luke by the same author. It is often believed these books were written by Luke, the physician and fellow worker with Paul (Philemon 1:23-24, Colossians 4:14, 2 Timothy 4:11), but that is not certain."
+      }
+    ],
+    "questionFour" : [
+      {
+        "question": "Which prophet secretly anointed David as king?",
+        "answers": [
+          { "id": "1", "text": "Elijah" },
+          { "id": "2", "text": "Elisha" },
+          { "id": "3", "text": "Samuel", "correct": true },
+          { "id": "4", "text": "Moses" }
+        ],
+        "correctAnswer": "Samuel",
+        "explanation": "1 Samuel 16:1-13. Samuel had anointed Saul as king, but Saul turned out to be jealous, melancholy, and filled with hatred. God rejected Saul and sent Samuel to anoint David. However, Saul did not know he would be replaced. If he had known, he would have killed David immediately."
+      }
+    ],
+    "questionFive" : [
+      {
+        "question": "Noah had three sons. Which one of these was NOT one of his sons?",
+        "answers": [
+          { "id": "1", "text": "Enos", "correct": true},
+          { "id": "2", "text": "Japheth" },
+          { "id": "3", "text": "Ham" },
+          { "id": "4", "text": "Shem" }
+        ],
+        "correctAnswer": "Enos",
+        "explanation": " Genesis 6:9-13."
+      }
+  ]
+}

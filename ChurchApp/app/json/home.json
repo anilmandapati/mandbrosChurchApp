@@ -1,0 +1,28 @@
+{
+    "title": "Home Page - Content",
+    "description": "Your app fetched this from a remote endpoint!",
+    "dailyVerse": [
+        {
+        "id": "1",
+        "image": "http://mandbros.com/church-app-data/assets/images/verse/1-verse-eng.jpg",
+        "likes": "90"
+        }
+    ],   
+    "dailyBlog": [
+        {
+            "id": "1",
+            "image": "http://mandbros.com/church-app-data/assets/images/blog/1-blog-eng.jpg",
+            "likes": "94",
+            "comments":"6",
+            "contentEnglish":"Blog English content",
+            "contentTelugu":"Blog Telugu content"
+        }
+    ],     
+    "dailyQuiz": [
+        {
+            "id": "1",
+            "image": "",
+            "contentQuiz":"Today Quiz on Mathew chapter 1"
+        }
+    ]   
+}
